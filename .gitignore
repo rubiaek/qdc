@@ -1,0 +1,7 @@
+/qdc/pyMMF.log
+*.pyc
+.idea/
+.vscode/
+*.ipynb_checkpoints/
+qdc/mmf/pyMMF.log
+qdc/data/
